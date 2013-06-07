@@ -2,8 +2,12 @@ fgmv1-linux
 ===========
 This is a linux port of the [FGM Toolkit] [1] for [Feature Generating Machine] [2].
 
-The README for FGM-V1.0 is as follows:
+Disclaimer
+-----------
+All credit goes to the original authors. I have just ported the code to Linux x64.
 
+Original README
+-----------
 A linear-time SVM-type feature selection algorithm is proposed 
 for large-scale and extremely high dimensional datasets, a very 
 small subset of non-monotonic features can be identified from 3 
